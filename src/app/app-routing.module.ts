@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core'
 import { Routes, RouterModule } from '@angular/router'
 
-import { ShoppingCartComponent } from './components/shopping-cart/shopping-cart.component'
+import { ShoppingCartComponent } from './components/greeny-cycle/greeny-cycle.component'
 import { LoginComponent } from './components/login/login.component'
 import { RegisterComponent } from './components/register/register.component'
 import { PageNotFoundComponent } from './components/shared/page-not-found/page-not-found.component'
