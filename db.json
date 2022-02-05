@@ -1,0 +1,161 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tiles",
+      "description": "From the work in Randers, here in an elegant light gray shade. Mortar residues occur.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/0/261010/1642088614/single/graa-tronholm-flise-261010.jpg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "Scaffolding boards",
+      "description": "Beautifully patinated old scaffolding boards made of spruce. Perfect for shelves, tables or decoration of walls inside shops etc.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/3/61093/1558514943/old2columns/stilladsbraedder-laengde-ca-390-cm-61093.jpg",
+      "price": 199
+    },
+    {
+      "id": 3,
+      "name": "Used Timber",
+      "description": "150-year-old dry oak timber, which we, in collaboration with locals in Ukraine, have taken from in connection with the dismantling of old barns.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/1/260981/1642168578/old2columns/260981.jpg",
+      "price": 399
+    },
+    {
+      "id": 5,
+      "name": "Monk stone",
+      "description": "Red monk stone",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/1/259031/1622821161/single/259031.jpg",
+      "price": 99
+    },
+    {
+      "id": 7,
+      "name": "Brick Smooth - White - New",
+      "description": "Lime sandstone in the well-known white quality from the construction boom of the 60s and 70s.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product_Image/image/5/289535/1561376674/single/kalsalux-glat-252327.jpg",
+      "price": 99
+    },
+    {
+      "id": 8,
+      "name": "Gray plastic handle with long signs",
+      "description": "Typical grip from the middle of the 20th century in gray plastic.  Fits door thickness 35 mm.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/5/84445/1558422408/single/graa-plastikgreb-med-langskilte-84445.jpg",
+      "price": 156
+    },
+    {
+      "id": 9,
+      "name": "Classic Frederiksberg post",
+      "description": "This type is often seen in the Copenhagen area and the rest of Zealand.   Cast in reinforced concrete.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/7/17607/1558005214/single/klassisk-frederiksbergstolpe-17607.jpg",
+      "price": 213
+    },
+    {
+      "id": 10,
+      "name": "Plates from Cable Drums",
+      "description": "Remnant of wooden boards from cable drums. Suitable for café, garden and terrace furniture. The boards are produced in Sweden from good Swedish pine.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/3/77753/1558597452/single/traeplade-fra-kabeltromle-oe-90-cm-77753.jpg",
+      "price": 668
+    },
+    {
+      "id": 11,
+      "name": "Pine planks",
+      "description": "Old pine floorboards which are worn and therefore most suitable for cladding, interior design, table tops, etc.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/4/261014/1642537480/single/261014.jpg",
+      "price": 356
+    },
+    {
+      "id": 4,
+      "name": "Doors",
+      "description": "Well-maintained cell door with oregon pine veneer from the 1950s-70s.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/2/261252/1643875408/single/celledoer-med-karm-261252.jpg",
+      "price": 499
+    },
+    {
+      "id": 6,
+      "name": "Radiator",
+      "description": "By the brand Brenner. Without suspension bracket. Nice condition, however, there may be scratches and signs of wear.",
+      "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/3/258933/1622462022/single/258933.jpg",
+      "price": 235
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 6
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Tiles",
+        "description": "From the work in Randers, here in an elegant light gray shade. Mortar residues occur.",
+        "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/0/261010/1642088614/single/graa-tronholm-flise-261010.jpg",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Scaffolding boards",
+        "description": "Beautifully patinated old scaffolding boards made of spruce. Perfect for shelves, tables or decoration of walls inside shops etc.",
+        "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/3/61093/1558514943/old2columns/stilladsbraedder-laengde-ca-390-cm-61093.jpg",
+        "price": 199
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Used Timber",
+        "description": "150-year-old dry oak timber, which we, in collaboration with locals in Ukraine, have taken from in connection with the dismantling of old barns.",
+        "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/1/260981/1642168578/old2columns/260981.jpg",
+        "price": 399
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Used Timber",
+        "description": "150-year-old dry oak timber, which we, in collaboration with locals in Ukraine, have taken from in connection with the dismantling of old barns.",
+        "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/1/260981/1642168578/old2columns/260981.jpg",
+        "price": 399
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Used Timber",
+        "description": "150-year-old dry oak timber, which we, in collaboration with locals in Ukraine, have taken from in connection with the dismantling of old barns.",
+        "imageUrl": "https://genbyg.dk/dyn/resources/Shop_Model_Product/image/1/260981/1642168578/old2columns/260981.jpg",
+        "price": 399
+      },
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "jeffDcosta"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "jeffDcosta"
+  }
+}
